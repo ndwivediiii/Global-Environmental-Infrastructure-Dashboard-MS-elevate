@@ -23,9 +23,9 @@ The dataset contains:
 - Data Visualization
 - Data Analysis
 
-## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+
+
 
 ## Key Insights
 
